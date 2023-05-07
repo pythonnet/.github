@@ -127,3 +127,5 @@ configuration:
       - repoName: cla-approved-bots
         fileName: approvedBots.csv
         companyName: microsoft-bots
+
+# https://github.com/microsoft/ContributorLicenseAgreement/issues/121
